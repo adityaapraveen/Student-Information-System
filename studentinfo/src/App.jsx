@@ -41,7 +41,7 @@ function App() {
 
           // Load the deployed contract
           const networkId = await web3Instance.eth.net.getId();
-          const contractAddress = '0xF517c2413eB1b62FE8b57a4B8Cc801EDcB1A9244'; // Replace with your deployed contract address
+          const contractAddress = '0x688Dc12B8DE7506e115C91651213DdCE4ea24add'; // Replace with your deployed contract address
           const contractInstance = new web3Instance.eth.Contract(
             StudentInformationSystemABI.abi,
             contractAddress

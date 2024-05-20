@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\adity\\OneDrive\\Desktop\\StudentInfoSystem\\sis\\contracts\\StudentInformationSystem.sol": {
-      "lastModificationDate": 1715624926475,
-      "contentHash": "3f84d47f1d6dd1e8b523e57c0744cf52",
+      "lastModificationDate": 1715633541046,
+      "contentHash": "86a48d32b5b721bdedda56dca8692782",
       "sourceName": "contracts/StudentInformationSystem.sol",
       "solcConfig": {
         "version": "0.8.0",
